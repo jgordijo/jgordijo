@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Milvus TI](http://milvus.com.br)
 
-- 🌱 I’m currently learning **Typescript, ReactJS and React Native**
-
-- 🚀 Learning everyday!
+- 🚀 I’m currently learning **Typescript, ReactJS and React Native**
 
 - 📫 How to reach me **jgordijo@gmail.com**
 
