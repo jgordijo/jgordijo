@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julio</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Milvus TI](http://milvus.com.br)
+- 🔭 I’m currently working on a startup based in California
 
 - 🚀 I’m currently learning **Typescript, ReactJS and React Native**
 
