@@ -9,7 +9,7 @@
         120
     ],
     "editor.formatOnSave": false,
-    "eslint.packageManager": "yarn",
+    // "eslint.packageManager": "yarn",
     "explorer.compactFolders": false,
     "workbench.editor.labelFormat": "short",
     "extensions.ignoreRecommendations": true,
@@ -82,4 +82,16 @@
         "*.proto": "3d"
     },
     "open-php-html-js-in-browser.selectedBrowser": "Firefox",
+    "security.workspace.trust.untrustedFiles": "open",
+    "security.workspace.trust.enabled": false,
+    "terminal.external.windowsExec": "C:\\tools\\Cmder\\Cmder.exe",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.inlineSuggest.enabled": true,
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "html",
+        "typescriptreact"
+    ],
 }
