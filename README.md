@@ -3,4 +3,4 @@
 
 - 🚀 I’m currently working on a startup based in New York
 
-- 📫 How to reach me **jgordijo@gmail.com**
+- 📫 Contact: **jgordijo@gmail.com**
