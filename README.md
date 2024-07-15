@@ -13,7 +13,7 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://gordijo.dev">
+<a href="https://gordijo.dev" target="_blank">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=knU9gRUWCnoO">
+<a href="https://www.youtube.com/watch?v=knU9gRUWCnoO" target="_blank">
 <strong>Listen to cool music</strong>
 <br />
 <br />
