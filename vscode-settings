@@ -1,5 +1,4 @@
 {
-    "workbench.colorTheme": "Dracula",
     "workbench.iconTheme": "material-icon-theme",
     "editor.tabSize": 2,
     "editor.fontFamily": "Fira Code",
@@ -9,7 +8,7 @@
         120
     ],
     "editor.formatOnSave": false,
-    // "eslint.packageManager": "yarn",
+    "editor.bracketPairColorization.enabled": true,
     "explorer.compactFolders": false,
     "workbench.editor.labelFormat": "short",
     "extensions.ignoreRecommendations": true,
@@ -30,20 +29,19 @@
         "javascript": "jsx"
     },
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll.eslint": "explicit"
     },
     "files.associations": {
         ".sequelizerc": "javascript",
         ".stylelintrc": "json",
         ".prettierrc": "json"
     },
-    "typescript.tsserver.log": "verbose",
+    "typescript.tsserver.log": "off",
     "typescript.suggest.autoImports": true,
     "screencastMode.onlyKeyboardShortcuts": true,
     "gitlens.codeLens.recentChange.enabled": false,
     "gitlens.codeLens.authors.enabled": false,
     "gitlens.codeLens.enabled": false,
-    "window.zoomLevel": 0,
     "javascript.updateImportsOnFileMove.enabled": "never",
     "typescript.updateImportsOnFileMove.enabled": "never",
     "editor.parameterHints.enabled": false,
@@ -52,13 +50,17 @@
     "editor.minimap.enabled": false,
     "[javascript]": {
         "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true,
+            "source.fixAll.eslint": "explicit"
         }
     },
     "[javascriptreact]": {
         "editor.codeActionsOnSave": {
-            "source.fixAll.eslint": true,
+            "source.fixAll.eslint": "explicit"
         }
+    },
+    "[prisma]": {
+        "editor.defaultFormatter": "Prisma.prisma",
+        "editor.formatOnSave": true
     },
     "material-icon-theme.folders.associations": {
         "infra": "app",
@@ -94,4 +96,31 @@
         "html",
         "typescriptreact"
     ],
+    "update.enableWindowsBackgroundUpdates": false,
+    "update.mode": "start",
+    "debug.node.useV3": true,
+    "explorer.confirmDelete": false,
+    "terminal.integrated.defaultProfile.osx": "zsh",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": true,
+        "plaintext": false,
+        "markdown": false
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "codesnap.shutterAction": "copy",
+    "workbench.startupEditor": "none",
+    "[javascript][javascriptreact]": {
+        "editor.codeActionsOnSave": {
+            "source.fixAll.eslint": "explicit"
+        }
+    },
+    "github.gitProtocol": "ssh",
+    "javascript.preferGoToSourceDefinition": true,
+    "typescript.preferGoToSourceDefinition": true,
+    "editor.stickyScroll.enabled": false,
+    "gitlens.views.stashes.files.layout": "list",
+    "prisma.showPrismaDataPlatformNotification": false,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "workbench.colorTheme": "Night Owl (No Italics)"
 }
