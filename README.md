@@ -45,7 +45,7 @@
 </table>
 
 <div align="center">
-<a href=""https://github.com/jgordijo/jgordijo/issues/new"><img src="images/guestbook.svg"></a> 
+<a href=""https://github.com/jgordijo/jgordijo/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
 </div>
 
 <!-- Guestbook -->
