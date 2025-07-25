@@ -44,24 +44,9 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/jgordijo/jgordijo/issues/2#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-<!-- /Guestbook -->
-
 <!-- Footer -->
 
 <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jgordijo/jgordijo/main/images/marquee.svg" />
-<br />
-
-![Visitor Count](https://profile-counter.glitch.me/jgordijo/count.svg)
-
 
 <img src="https://raw.githubusercontent.com/jgordijo/jgordijo/main/images/notepad.gif" alt="Site created with Notepad" height="30" />
 <!-- "margin-right: whatever;" -->
